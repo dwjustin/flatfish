@@ -2,16 +2,17 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://dwjustin.github.io"
+baseurl: "/flatfish"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "flatfish._.selfish"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
 share: true
+encoding: UTF-8
 
 # Owner/author information
 owner:
@@ -33,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://dwjustin.github.io/flatfish/gallery/"  
+  - COMPETITION: "https://dwjustin.github.io/flatfish/competition/"
+  - ABOUT: "https://dwjustin.github.io/flatfish/about/"
 
 # All translation keys
 translations:
