@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://dwjustin.github.io/flatfish/gallery/"  
+  - ALBUMS: "https://dwjustin.github.io/flatfish/albums/"  
   - MEDIA: "https://dwjustin.github.io/flatfish/media/"
   - ABOUT: "https://dwjustin.github.io/flatfish/about/"
 
