@@ -1,16 +1,16 @@
 ---
 layout: "post"
-title: "BLOG IMAGE PERFORMANCE IS NECESSARY"
-subtitle: "Image format and what Is the Ideal File Size for an Image?"
+title: "집현전 2022"
+subtitle: "KT&G 상상유니브 대학생 창작곡 컴피티션"
 active: "media"
 image:
-  feature: "pc008.jpg"
-date: "2016-02-01"
-header-img: "img/postcover/pc008.jpg"
-comments: "true"
+  feature: "집현전2022.jpeg"
+date: "2022-09-24"
+header-img: "img/postcover/집현전2022.jpeg"
+comments: "false"
 ---
 
-<p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
+<!-- <p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
 
 > Is blog image performance necessary?
 > 
@@ -53,4 +53,4 @@ Thank you Marianne! :)
 <br>
 <br>
 
-<a href="http://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg">Featured Image Source</a>
+<a href="http://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg">Featured Image Source</a> -->
