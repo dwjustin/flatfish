@@ -7,12 +7,14 @@ image:
   feature: "위플리.jpeg"
 date:       2022-10-28
 header-img: "img/postcover/위플리.jpeg"
-tags: [tag03, tag04]
-categories: [cat03, cat04]
+# tags: [tag03, tag04]
+# categories: [cat03, cat04]
 comments: false
 ---
 
-<p>The boys laughed and lay down again in the sand, while Granser sighed  ponderously. He had eaten too much, and, with hands clasped on his  paunch, the fingers interlaced, he resumed his maunderings.</p>
+
+
+<!-- <p>The boys laughed and lay down again in the sand, while Granser sighed  ponderously. He had eaten too much, and, with hands clasped on his  paunch, the fingers interlaced, he resumed his maunderings.</p>
 
 <p>"'The fleeting systems lapse like foam,'" he mumbled what was evidently  a quotation. "That's it&mdash;foam, and fleeting. All man's toil upon the  planet was just so much foam. He domesticated the serviceable animals,  destroyed the hostile ones, and cleared the land of its wild vegetation.  And then he passed, and the flood of primordial life rolled back again,  sweeping his handiwork away&mdash;the weeds and the forest inundated his  fields, the beasts of prey swept over his flocks, and now there are  wolves on the Cliff House beach." He was appalled by the thought. "Where  four million people disported themselves, the wild wolves roam to-day,  and the savage progeny of our loins, with prehistoric weapons, defend  themselves against the fanged despoilers. Think of it! And all because  of the Scarlet Death&mdash;"</p>
 
@@ -32,4 +34,4 @@ comments: false
 
 <p>"Red is good enough for me," Hare-Lip muttered obstinately. "My dad  calls red red, and he ought to know. He says everybody died of the Red  Death."</p>
 
-<p>Placeholder text by <a href="http://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p>
+<p>Placeholder text by <a href="http://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p> -->

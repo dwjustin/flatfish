@@ -17,10 +17,10 @@ encoding: UTF-8
 
 # Owner/author information
 owner:
-  name:   flatfish
+  name:   Flatfish
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  # info: photography website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
