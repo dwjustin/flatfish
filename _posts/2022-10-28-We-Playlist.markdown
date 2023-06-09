@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "The Scarlet Plague"
-subtitle:   "Jack London"
+title:      "위플리 (We Playlist)"
+subtitle:   "방송통신위원회"
 active: media
 image:
-  feature: "pc002.jpg"
-date:       2016-03-20
-header-img: "img/postcover/pc002.jpg"
+  feature: "위플리.jpeg"
+date:       2022-10-28
+header-img: "img/postcover/위플리.jpeg"
 tags: [tag03, tag04]
 categories: [cat03, cat04]
 comments: false

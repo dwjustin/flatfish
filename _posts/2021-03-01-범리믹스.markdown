@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "The Wizard of Oz"
-subtitle:   "L. Frank Baum"
+title:      "Naver NOW 범 리믹스 라이브"
+subtitle:   "라비 퀘스쳔마크 100회 특집"
 active: media
 image:
-  feature: "pc003.jpg"
-date:       2016-03-15
-header-img: "img/postcover/pc003.jpg"
+  feature: "범리믹스.jpeg"
+date:       2021-03-01
+header-img: "img/postcover/범리믹스.jpeg"
 tags: [tag03, tag04]
 categories: [cat03, cat04]
 comments: false
